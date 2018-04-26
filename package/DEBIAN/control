@@ -1,0 +1,6 @@
+Package: scq-dlink
+Version: 1.0
+Maintainer: Rafa
+Depends: dkms
+Architecture: all
+Description: Configura el sistema para que se puede conectar la Dock Station i-tec 3.0 Dual Docking Station. El binario está descargado desde la web de DisplayLink.
